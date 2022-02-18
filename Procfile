@@ -1,1 +1,1 @@
-web: waitress-serve crawling.wsgi
+web: waitress-serve --port=$PORT crawling.wsgi
