@@ -1,1 +1,1 @@
-web: waitress-serve --port=8000 crawling.wsgi --log-file -
+web: waitress-serve --port=8000 crawling.wsgi
