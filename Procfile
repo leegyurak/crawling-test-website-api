@@ -1,1 +1,1 @@
-web: waitress-serve --port=8000 crawling.wsgi
+web: waitress-serve crawling.wsgi
